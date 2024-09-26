@@ -1,0 +1,18 @@
+/* styles */
+
+.click-button,
+.rival-button {
+    font-size: 50px;
+    border-color: gray;
+}
+
+.click-button {
+    color: white;
+    background-color: black;
+
+}
+
+.rival-button {
+    color: black;
+    background-color: yellow;
+}
