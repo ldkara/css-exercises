@@ -1,0 +1,27 @@
+/* styles.css */
+
+.prime-lines {
+    background-color: pink;
+    color: black;
+    font-size: 19px;
+    text-align: left;
+
+}
+
+#two {
+    color: blue;
+    background-color: white;
+    font-size: 40px;
+}
+
+.three {
+    font-size: 30px;
+}
+
+#four {
+    color: black;
+    background-color: greenyellow;
+    font-weight: bold;
+    text-align: left;
+    font-size: 25px;
+}
