@@ -1,27 +1,46 @@
 body {
-  background: #eee;
+  background: lightgray;
   font-family: sans-serif;
 }
 
+/* The white border background for all content*/
 .card {
   width: 400px;
   background: #fff;
-  margin: 16px auto;
+  margin: auto;
+  padding: 8px;
 }
 
+/*I'm a card*/
 .title {
   background: #e3f4ff;
+  padding: 10px;
+  margin-top: 15px;
+  font-size: 16px;
 }
 
+/*I have content inside me..*/
 .content {
   background: #e3f4ff;
+  padding: 10px;
+  margin-bottom: 15px;
+  font-size: 16px;
 }
 
+/*and a*/
 .button-container {
   background: #e3f4ff;
+  text-align: center;
+  padding: 8px;
+  font-size: 16px;
+  
 }
 
+/*BIG BUTTON*/
 button {
   background: white;
   border: 1px solid #eee;
+  display: block;
+  margin: auto;
+  padding: 8px 20px;
 }
